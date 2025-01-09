@@ -146,7 +146,7 @@ background: rgba(82, 195, 3, 0.15);
 #social{
     
     background: linear-gradient(180.00deg, rgba(255, 255, 255, 0.76)2.884%,rgba(255, 255, 255, 0.932)101.034%),url(../assets/social-bg.png); 
-    /* background-image: url(../assets/social-bg.png); */
+     
     height: 671px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -191,6 +191,7 @@ letter-spacing: 0%;
 text-align: center;
 opacity: 0.7;
 margin-top: 48px;
+width: 1320PX;
 
 }
  
